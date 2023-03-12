@@ -1,1 +1,1 @@
-[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=500&lines=It's+me+Liam!)](https://github.com/LiamVoooid)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=30&pause=5000&color=FFFFFF&multiline=true&repeat=false&width=435&lines=Howdy%2C+it's+me+Liam!" alt="Typing SVG" /></a>
