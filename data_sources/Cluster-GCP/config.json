@@ -3,8 +3,8 @@
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "Cluster-GCP",
-        "readPreference": "primary",
-        "wireProtocolEnabled": false
+        "readPreference": "nearest",
+        "wireProtocolEnabled": true
     },
     "version": 1
 }
