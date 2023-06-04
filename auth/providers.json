@@ -3,5 +3,10 @@
         "name": "anon-user",
         "type": "anon-user",
         "disabled": false
+    },
+    "api-key": {
+        "name": "api-key",
+        "type": "api-key",
+        "disabled": false
     }
 }
