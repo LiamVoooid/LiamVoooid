@@ -1,0 +1,10 @@
+{
+    "name": "Cluster-GCP",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Cluster-GCP",
+        "readPreference": "nearest",
+        "wireProtocolEnabled": true
+    },
+    "version": 1
+}
