@@ -1,12 +1,12 @@
 {
-    "id": "647cc98e8805b043e3fc820a",
+    "id": "647ccf7436742bf85308a7df",
     "roles": [
         {
             "name": "readAndWriteAll",
             "apply_when": {},
             "document_filters": {
-                "write": true,
-                "read": true
+                "write": {},
+                "read": {}
             },
             "read": true,
             "write": true,
