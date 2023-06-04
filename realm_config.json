@@ -1,7 +1,7 @@
 {
-    "app_id": "data-wakpt",
+    "app_id": "triggers-grmgv",
     "config_version": 20210101,
-    "name": "data",
+    "name": "Triggers",
     "location": "US-VA",
     "provider_region": "gcp-us-central1",
     "deployment_model": "LOCAL",
